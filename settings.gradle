@@ -1,0 +1,2 @@
+include ':app', ':xlistview_library', ':mycs', ':mytab', ':wangchongyang20200109', ':mypt', ':pulltorefresh_library', ':pullToRefreshlibrary', ':wangchongyang20200110', ':mylxxx', ':wangchongyang', ':wangchongyang0112', ':myzy', ':mywebview', ':my210zy', ':my210zyy', ':myyklx', ':wangchongyang20200218'
+rootProject.name='My Application'
